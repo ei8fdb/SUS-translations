@@ -10,3 +10,12 @@
 8. I found the system very cumbersome to use.
 9. I felt very confident using the system.
 10. I needed to learn a lot of things before I could get going with this system.
+
+
+##SUS response:
+
+1. Strongly disagree
+2.
+3.
+4.
+5. Strongly agree

@@ -10,3 +10,12 @@
 8. Jag tyckte systemet var mycket omständigt att använda.
 9. Jag kände mig säker på vad jag gör när jag använder systemet.
 10. Jag behövde lära mig mycket innan jag kunde komma igång att använda systemet.
+
+
+##SUS response:
+
+1. Strongly disagree
+2.
+3.
+4.
+5. Strongly agree
