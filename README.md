@@ -24,4 +24,14 @@ The quality of SUS question translation is very important.
 
 For the moment, we will try to validate the proposed translations with a number of people to make sure the translations are of the highest quality possible.  
 
-[1] SUS - A quick and dirty usability scale
+[1] SUS - A quick and dirty usability scale: http://www.tbistafftraining.info/smartphones/documents/b5_during_the_trial_usability_scale_v1_09aug11.pdf
+
+The System Usability Scale and Non-Native English Speakers: https://uxpa.org/sites/default/files/finstad_sus_non_native_speakers.pdf
+
+
+SUS: A Retrospective: http://uxpajournal.org/wp-content/uploads/pdf/JUS_Brooke_February_2013.pdf
+
+
+http://ux.stackexchange.com/questions/93901/system-usability-scale-in-spanish-other-languages
+
+https://www.youtube.com/watch?v=-S2N3ohtc9o
