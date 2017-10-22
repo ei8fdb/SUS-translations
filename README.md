@@ -1,7 +1,7 @@
-#README.MD
+# README.MD
 
 
-##What is the System Usability Scale (SUS)?
+## What is the System Usability Scale (SUS)?
 The System Usability Scale (SUS) is "a reliable, low-cost usability scale that can be used for global assessments of systems usability".[2]
 
 It is a tool for measuring the usability of a wide variety of systems and products - hardware, software, websites and computer applications.
@@ -13,13 +13,13 @@ Each question response provides a score. When all 10 responses are totalled an o
 Originally created by John Brooke in 1986, at the time working for Digital Computer Corp (DEC) in the UK.
 
 
-##Purpose of this project
+## Purpose of this project
 Right now SUS is only reliably available in English. Good quality translations to other languages are scarce (or difficult to find).
 
 The purpose of this project is to attempt to translate the SUS scale questions into other languages so it can be used to measure usability.
 
 
-##Quality of translation
+## Quality of translation
 The quality of SUS question translation is very important.
 
 For the moment, we will try to validate the proposed translations with a number of people to make sure the translations are of the highest quality possible.  
